@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+}
+h1#demo-title {
+    margin: 30px 0px 80px 0px;
+    text-align: center;
+}
+
+#event-action-response {
+    background-color: #5ce4c6;
+    border: #57d4b8 1px solid;
+    padding: 10px 20px;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    color: #333;
+    display: none;
+}
+
+.fc-day-grid-event .fc-content {
+    background: #586e75;
+    color: #FFF;
+}
+
+.fc-event, .fc-event-dot {
+    background-color: #586e75;
+}
+
+.fc-event {
+    border: 1px solid #485b61;
+}
